@@ -22,11 +22,11 @@ Diseño responsivo para usarse en computadora y móvil.
 
 <h1> 🛠 Tecnologías utilizadas 🛠 </h1>
 
-HTML5 → estructura del proyecto.
+HTML
 
-CSS3 → estilos y diseño responsivo.
+CSS
 
-JavaScript (ES6) → lógica del sorteo y manejo del DOM.
+JavaScript 
 
 <h1> ⚡ Como Usar ⚡ </h1>
 
